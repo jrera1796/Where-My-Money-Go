@@ -7,12 +7,15 @@
 Where My Money Go? is the go to app when you need to track your income and expenses while you're travelling overseas, atop Mount Everest or in one of America's many caverns (yes, they accept payments in there too!)
 
 ## Usage
+This application features the ability to save transactions even while the application is offline and also allows the user to install the app onto their desktop or homescreen. 
 
-
+Note. Not all web browsers support installation.
+For a full list of browers that support this ability visit [caniuse.com](https://caniuse.com/?search=PWA)
 
 ## Built With
 * JavaScript
 * MongoDB
+* IndexedDB
 * NodeJS, Express; Mongoose; Compression; Morgan; 
 
 ## Installation
@@ -22,6 +25,9 @@ Where My Money Go? is the go to app when you need to track your income and expen
 #### In your command line
 - npm init
 - npm i express mongoose compression morgan
+
+## Screenshot
+![WhereMyMoneyGo?](wmmg.png)
 
 ## Webiste
 [Budget Tracker](https://boiling-plains-14687.herokuapp.com)
