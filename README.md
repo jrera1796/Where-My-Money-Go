@@ -6,11 +6,13 @@
 ## Description
 Where My Money Go? is the go to app when you need to track your income and expenses while you're travelling overseas, atop Mount Everest or in one of America's many caverns (yes, they accept payments in there too!)
 
-## Usage
 This application features the ability to save transactions even while the application is offline and also allows the user to install the app onto their desktop or homescreen. 
 
 Note. Not all web browsers support installation.
 For a full list of browers that support this ability visit [caniuse.com](https://caniuse.com/?search=PWA)
+
+## Usage
+Type in a description for your transaction enter the dollar amount and select add funds or subtract finds. It's that simple!
 
 ## Built With
 * JavaScript
@@ -30,7 +32,7 @@ For a full list of browers that support this ability visit [caniuse.com](https:/
 ![WhereMyMoneyGo?](wmmg.png)
 
 ## Webiste
-[Budget Tracker](https://boiling-plains-14687.herokuapp.com)
+[Where My Money Go?](https://boiling-plains-14687.herokuapp.com)
 
 ## Contribution
 Made by Jose R.
