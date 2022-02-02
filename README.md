@@ -8,7 +8,7 @@ Where My Money Go? is the go to app when you need to track your income and expen
 
 This application features the ability to save transactions even while the application is offline and also allows the user to install the app onto their desktop or homescreen. 
 
-Note. Not all web browsers support installation.
+Note. Not all web browsers support installation.  
 For a full list of browers that support this ability visit [caniuse.com](https://caniuse.com/?search=PWA)
 
 ## Usage
