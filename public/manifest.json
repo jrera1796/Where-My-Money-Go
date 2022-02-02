@@ -1,6 +1,7 @@
 {
   "name": "Where My Money Go?",
   "short_name": "MoneyTracker",
+  "description": "An App to Track your Debts and Income!",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
