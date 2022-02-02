@@ -16,6 +16,7 @@
   <div class="wrapper">
     <div class="total">
       <div class="total">Your total is: $<span id="total">0</span></div>
+
     </div>
 
     <div class="form">
@@ -23,7 +24,10 @@
       <input type="number" min="0" id="t-amount" placeholder="Transaction amount" />
       <button id="add-btn"><i class="fa fa-plus buttons"></i> Add Funds</button>
       <button id="sub-btn"><i class="fa fa-minus"></i> Subtract Funds</button>
+      <button id="notification" style="display:none;" onclick='style="display:none;"'>We've noticed your connection isn't great. No worries, your transactions are being synced each time you find connection. Click on me to remove this message.</button>
+
       <p class="error"></p>
+      
     </div>
 
     <div class="transactions">

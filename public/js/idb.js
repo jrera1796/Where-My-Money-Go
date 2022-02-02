@@ -46,8 +46,9 @@ function uploadPayment() {
           const transaction = db.transaction(['new_payment'], 'readwrite');
           const paymentObjectStore = transaction.objectStore('new_payment');
           paymentObjectStore.clear();
-
-          alert('All transactions uploaded!');
+          const notification = document.getElementById('notification')
+          notification.style="display:block"
+          // alert('Your offline transactions have been synced to your account');
         })
         .catch(err => {
           console.log(err);
